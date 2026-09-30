@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+.vite/
+.DS_Store
+.env
+.env.*
+!.env.example
+
+preview-build/
+ore-bound-standalone-preview.html
